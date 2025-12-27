@@ -1,0 +1,7 @@
+{
+  "name": "Devbhoomi Catering & Wedding House",
+  "description": "A premium wedding catering and decoration booking app for Uttarakhand, featuring bilingual support and elegant traditional design.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
